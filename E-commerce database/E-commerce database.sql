@@ -1,0 +1,2 @@
+CREATE DATABASE E_commerce
+    DEFAULT CHARACTER SET = 'utf8mb4';
