@@ -1,2 +1,0 @@
-CREATE DATABASE University
-    DEFAULT CHARACTER SET = 'utf8mb4';
