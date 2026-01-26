@@ -1,0 +1,2 @@
+ALTER TABLE oil_reserves
+ADD PRIMARY KEY (COUNTRY);

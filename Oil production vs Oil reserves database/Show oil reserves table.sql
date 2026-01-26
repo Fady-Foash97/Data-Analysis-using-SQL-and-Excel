@@ -1,0 +1,1 @@
+Select * From oil_reserves;
