@@ -1,0 +1,1 @@
+SELECT Category, COUNT(book_title) As Number_of_books FROM books GROUP BY Category;

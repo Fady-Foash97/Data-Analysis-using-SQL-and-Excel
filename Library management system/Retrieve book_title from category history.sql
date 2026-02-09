@@ -1,0 +1,1 @@
+SELECT book_title FROM books WHERE Category = 'history';

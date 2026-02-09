@@ -1,0 +1,1 @@
+SELECT Category, SUM(Rental_Price) AS Total_rental_price FROM books GROUP BY Category ORDER BY Total_rental_price DESC;

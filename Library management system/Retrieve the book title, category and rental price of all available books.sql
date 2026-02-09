@@ -1,0 +1,1 @@
+SELECT Book_title, Category, Rental_Price FROM books WHERE Status = "Yes";

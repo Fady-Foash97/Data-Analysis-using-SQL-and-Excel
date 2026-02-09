@@ -1,0 +1,1 @@
+SELECT Emp_name, Salary, Position FROM employee ORDER BY SALARY DESC;

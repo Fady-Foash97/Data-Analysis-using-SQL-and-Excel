@@ -1,0 +1,1 @@
+SELECT emp_name, position, Salary FROM employee WHERE Salary > 50000;
