@@ -1,0 +1,1 @@
+SELECT Top 20 Country, Number_of_objects_launched_into_space FROM [Space objects 2025];
